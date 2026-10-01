@@ -81,5 +81,6 @@ public class Main {
         int[] outputArray5 = {profitableMonths};
         System.out.println("inputArray5: " + Arrays.toString(inputArray5));
         System.out.println("outputArray5: " + Arrays.toString(outputArray5));
+
     }
 }
